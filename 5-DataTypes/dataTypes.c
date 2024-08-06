@@ -8,7 +8,7 @@ int main() {
 
   studentRank = 1;
   studentFeeTotal = 100.56;
-  studentGradeLetter = "A";
+  studentGradeLetter = 'A';
 
   printf("Student's Rank in class: %dst\n", studentRank);
   printf("Student's Total Fees: $%3.2f\n", studentFeeTotal);
